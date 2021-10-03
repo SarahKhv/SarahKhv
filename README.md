@@ -7,9 +7,11 @@
 - :computer: Taking online classes at University of Toronto
 
 ### Connect with me:
-[<img align = "left" alt = "SarahKhv | Instagram" width = "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/instagram.js" />][instagram]
-
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
 <br />
 
+
+</details>
 [instagram]: https://www.instagram.com/sarah_khv/
 

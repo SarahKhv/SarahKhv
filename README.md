@@ -1,10 +1,10 @@
 ## Hi :wave:, My name is Sarah!
 
 ### I am a Computer Science Student and Math Tutor
-- :brain: Currently learning React and React Native
-- :pencil2: My goals for 2021 is get an internship and learn App development
-- :earth_africa: I love travelling and doing puzzles
-- :computer: Taking online classes at University of Toronto
+- :brain: Currently learning C++ 
+- :pencil2: My goal for 2024 is to improve my technical and soft skills
+- :earth_africa: I love traveling and doing puzzles
+- :computer: 4th year student at the University of Toronto
 
 ### Languages and Tools:
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][source]

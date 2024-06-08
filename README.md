@@ -18,8 +18,8 @@
 <br />
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 
 
-[instagram]: https://instagram.com/sarah_khv 
+[linkedin]: https://www.linkedin.com/in/sarah-khan-64100a224/
 [source]: https://www.jsdelivr.com/package/npm/simple-icons?path=icons

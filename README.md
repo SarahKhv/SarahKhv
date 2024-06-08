@@ -1,10 +1,10 @@
 ## Hi :wave:, My name is Sarah!
 
-### I am a Computer Science Student and Math Tutor
-- :brain: Currently learning C++ 
+### I am seeking a new grad software developer role!
+- :brain: Currently improving my C++
 - :pencil2: My goal for 2024 is to improve my technical and soft skills
 - :earth_africa: I love traveling and doing puzzles
-- :computer: 4th year student at the University of Toronto
+- :computer: 4th-year student at the University of Toronto, expected to graduate end of June 2024
 
 ### Languages and Tools:
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][source]
